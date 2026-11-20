@@ -1,0 +1,12 @@
+Dijkstra: 24 → 21
+Decisiones de búsqueda: 5
+Ruta definitiva: 24 → 21
+Costo mínimo: 2
+
+busqueda_000_inicio.png: inicio en 24
+busqueda_001_seleccion_24.png: nodo 24 confirmado, distancia 0
+busqueda_002_evalua_24_a_21_mejora.png: 24–21, peso 2, propuesto 2, anterior ∞, mejora
+busqueda_003_evalua_24_a_11_mejora.png: 24–11, peso 7, propuesto 7, anterior ∞, mejora
+busqueda_004_seleccion_21.png: nodo 21 confirmado, distancia 2
+
+ruta_definitiva_24_a_21.png: costo 2
